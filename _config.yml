@@ -18,4 +18,4 @@ github_username:  Systemiser
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
