@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Today I learned in Git"
+categories: [webdev]
+tags: [git,linux,shell,terminal]
 ---
 
 # Today I learned in Git
