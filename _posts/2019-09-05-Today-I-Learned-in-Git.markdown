@@ -4,7 +4,7 @@ title: "Today I learned in Git"
 categories: [webdev]
 tags: [git,linux,shell,terminal]
 ---
-## Storing git username and password for pushing without entering username and password 
+### Storing git username and password for pushing without entering username and password 
 
 In any directory (non .git)
 
@@ -20,4 +20,4 @@ Then
 
 Enter username and password and after that, all pushes will not require you to enter your password.
 
-## Github SSH Keys
+### Github SSH Keys
