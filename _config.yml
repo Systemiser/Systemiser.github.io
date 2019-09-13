@@ -17,7 +17,5 @@ github_username:  Systemiser
 
 # Build settings
 markdown: kramdown
+remote_theme: benbalter/retlab
 
-remote_theme: chrisbobbe/jekyll-theme-prologue
-
-theme: jekyll-theme-cayman
