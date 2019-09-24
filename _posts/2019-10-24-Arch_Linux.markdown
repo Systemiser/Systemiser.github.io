@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Arch Linux
+description: An overview of my Arch linux configuration
 ---
 
 # Arch Linux Configuration
