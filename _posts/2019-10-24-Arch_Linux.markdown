@@ -6,13 +6,13 @@ description: An overview of my Arch linux configuration
 
 # Arch Linux Configuration
 
-## Shell
+### Shell
 zsh with oh-my-zsh
 
-## Terminal Emulator
+### Terminal Emulator
 st (Luke Smith)
 
-## Text editors
+### Text editors
 nvim (aliased as vim) with dein plugin manager
 
 Doom emacs for org-mode
