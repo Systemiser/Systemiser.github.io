@@ -4,10 +4,6 @@ output:
   tufte::tufte_handout: default
 ---
 
-```{r setup, include=FALSE}
-library(tufte)
-```
-
 # Title
 
 ## Section
