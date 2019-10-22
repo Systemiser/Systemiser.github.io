@@ -5,5 +5,4 @@ permalink: /about/
 ---
 Site started August 9
 
-{% include icon-github.html username="Systemiser" %} /
-(https://github.com/Systemiser)
+Learning and Development blog for {% include icon-github.html username="Systemiser" %} 
