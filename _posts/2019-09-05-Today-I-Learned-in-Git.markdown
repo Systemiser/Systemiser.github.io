@@ -4,7 +4,7 @@ title: Today I learned in Git
 categories: webdev
 tags: git,linux,shell,terminal
 ---
-
+![bmw](/home/hyde/Images/IMG_3724.JPG)
 ### Storing git username and password for pushing without entering username and password 
 
 In any directory (non .git)
