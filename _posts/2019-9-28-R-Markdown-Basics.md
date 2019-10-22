@@ -17,7 +17,6 @@ This is an example of code.
 ```
 
 
-
 ## This is a further example of how text is formatted.
 
 
